@@ -65,23 +65,17 @@ This project implements a complete authentication system with user registration 
 
 1. Start the backend server
    ```
-   npm run server
+   cd backend 
+   npm start
    ```
 
 2. Start the frontend development server
    ```
-   cd client
-   npm start
+   cd frontend 
+   npm run dev
    ```
 
 
 
-## Future Enhancements
 
-- Password reset functionality
-- Email verification
-- JWT authentication
-- Profile management
-- Role-based access control
-- Enhanced security measures
 
